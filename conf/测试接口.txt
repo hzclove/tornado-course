@@ -1,0 +1,5 @@
+http://123.57.148.33:8300/course/get_all_course?uid=3907120dd2a02f01be1084fd9c5b17ec&major_id=13_020204
+http://123.57.148.33:8300/course/get_my_course?uid=3907120dd2a02f01be1084fd9c5b17ec&major_id=13_020204
+http://123.57.148.33:8300/course/get_course_detail?uid=3907120dd2a02f01be1084fd9c5b17ec&course_id=b6680ff957e5c4988c4630ec14c654a7
+http://123.57.148.33:8300/course/get_record_list?uid=3907120dd2a02f01be1084fd9c5b17ec&course_id=b6680ff957e5c4988c4630ec14c654a7
+http://123.57.148.33:8300/course/get_live_list?uid=3907120dd2a02f01be1084fd9c5b17ec&course_id=7770ff957e5c4988c4630ec14c654a
